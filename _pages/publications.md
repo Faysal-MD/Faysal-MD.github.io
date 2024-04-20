@@ -23,7 +23,8 @@ author_profile: true
     <font size="3"><strong>Conference:</strong><em> 2nd International Conference on Big Data, IoT and Machine Learning</em></font> ([BIM 2023](https://confbim.com/))
 </span>
 <br>
-[<a style="color:red;" href="#" onclick="$('#rank2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+<!-- [<a style="color:red;" href="#" onclick="$('#rank2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>]  -->
+[<a style="color:red;" href="https://ieeexplore.ieee.org/document/10441026"><font size="3">PDF</font></a>] [<a style="color:red;" href="#" onclick="$('#rank2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>]
 
 <div id="rank2023_bib" class="bib" style="display:none;">
     <pre>
