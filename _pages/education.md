@@ -1,23 +1,23 @@
 ---
 layout: archive
-title: ""
+title: "Education"
 permalink: /education/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
+<!-- B.Sc. -->
+<span style="font-family:Georgia; color:black;">
+<span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="https://aust.edu" target="_blank">Ahsanullah University of Science and Technology</a></b></span><br/>
+Bachelor of Science (B.Sc.)<br/>
+Computer Science and Engineering <br/>
+Duration: 2019 - 2023 <br/>
+CGPA: <b>3.32/4.00</b> scale <br/>
+</span>
 
-## Education 
--------------
-<b>Ph.D. in Computer Science (ongoing)</b><br />
-University of Virginia<br />
-Virginia, United States<br />
-<i style='color:#000099;'>**August 2021 - Present**</i>
-
-<b>B.Sc., Computer Science and Engineering</b><br />
-Ahsanullah University of Science and Technology<br />
-Dhaka, Bangladesh<br />
-<i style='color:#000099;'>**May 2015 - July 2019**</i>
-
-___________________________________________
+<!-- HSC -->
+<span style="font-family:Georgia; color:black;">
+<span style="color:black; font-size:20px"><b><a href="http://dhakacollege.edu.bd/" target="_blank">Dhaka College</a></b></span><br/>
+Higher Secondary Certificate (HSC) <br/>
+Duration: 2015 - 2017 <br/>
+GPA: <b>5.00/5.00</b> scale <br/>
+</span>

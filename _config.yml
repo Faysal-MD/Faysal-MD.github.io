@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Faysal Mahmud"
-  avatar           : "profile-pic.png"
+  avatar           : profile-pic.png
   bio              : ""
   location         : "Dhaka, Bangladesh"
   employer         :
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/faysalmahmud"
+  linkedin         : "faysalmahmud"
   orcid            : 
   pinterest        :
   soundcloud       :
