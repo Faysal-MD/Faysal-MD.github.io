@@ -38,3 +38,27 @@ author_profile: true
         }
     </pre>
 </div>
+
+
+<!-- Paper 08 -->
+📌 [<span style="color:blue;font-family:Trebuchet MS;">**Rank Your Summaries: Enhancing Bengali Text Summarization via Ranking-based Approach**</span>](https://arxiv.org/pdf/2307.07392.pdf) <br>
+<span style="color:black;font-family:Georgia">
+    <font size="3"><strong>Authors</strong>: <strong style="color:green">G. M. Shahariar*</strong>, Tonmoy Talukder*, Rafin Alam Khan Sotez and Md. Tanvir Rouf Shawon </font>
+</span>
+<br>
+<span style="color:black;font-family:Georgia">
+    <font size="3"><strong>Conference:</strong><em> 2nd International Conference on Big Data, IoT and Machine Learning</em></font> ([BIM 2023](https://confbim.com/))
+</span>
+<br>
+[<a style="color:red;" href="#" onclick="$('#rank2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+
+<div id="rank2023_bib" class="bib" style="display:none;">
+    <pre>
+        @article{shahariar2023rank,
+          title={Rank Your Summaries: Enhancing Bengali Text Summarization via Ranking-based Approach},
+          author={Shahariar, GM and Talukder, Tonmoy and Sotez, Rafin Alam Khan and Shawon, Md Tanvir Rouf},
+          journal={arXiv preprint arXiv:2307.07392},
+          year={2023}
+        }
+    </pre>
+</div>
