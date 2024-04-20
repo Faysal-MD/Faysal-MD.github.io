@@ -14,7 +14,7 @@ author_profile: true
 <!-- Paper 01 -->
 
 <!-- Paper 08 -->
-📌 [<span style="color:blue;font-family:Trebuchet MS;">**Rank Your Summaries: Enhancing Bengali Text Summarization via Ranking-based Approach**</span>](https://arxiv.org/pdf/2307.07392.pdf) <br>
+📌 [<span style="color:blue;font-family:Trebuchet MS;">**Unmasking Deepfake Faces from Videos Using An Explainable Cost-Sensitive Deep Learning Approach**</span>](https://ieeexplore.ieee.org/document/10441026) <br>
 <span style="color:black;font-family:Georgia">
     <font size="3"><strong>Authors</strong>: <strong style="color:green">G. M. Shahariar*</strong>, Tonmoy Talukder*, Rafin Alam Khan Sotez and Md. Tanvir Rouf Shawon </font>
 </span>
