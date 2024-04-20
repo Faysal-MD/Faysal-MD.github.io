@@ -5,6 +5,36 @@ permalink: /publications/
 author_profile: true
 ---
 
- 
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F8518745%2Fcollections%2FR6WQU7QK%2Fitems%3Fkey%3D7S5bVyQNbpzp4napLnNPAvG6%26format%3Dbibtex%26limit%3D100&jsonp=1"></script>
+<span style="color:black; font-family:Georgia;">Most recent publication updates can be found on my <a style ="color:#800080;" href="https://scholar.google.com/citations?user=XMEn-M4AAAAJ&hl=en"><em>[Google Scholar]</em></a> profile.</span><br>
 
+## 2023
+
+---
+
+<!-- Paper 01 -->
+
+📌 [<span style="color:blue;font-family:Trebuchet MS;">**Unmasking Deepfake Faces from Videos Using An Explainable Cost-Sensitive Deep Learning Approach**</span>](https://ieeexplore.ieee.org/document/10441026/) <br>
+<span style="color:black;font-family:Georgia">
+<font size="3"><strong>Authors</strong>: <strong style="color:green"><strong style="color:green">Faysal Mahmud</strong>, Yusha Abdullah, Minhajul Islam, Tahsin Aziz </font>
+</span>
+<br>
+<span style="color:black;font-family:Georgia">
+<font size="3"><strong>Conference:</strong><em> International Conference on Computer and Information Technology</em></font> ([ICCIT 2023](https://iccit.org.bd/2023/))
+</span>
+<br>
+[[<span style ="color:red"><font size="3">PDF</font></span>](https://www.researchgate.net/publication/378533983_Unmasking_Deepfake_Faces_from_Videos_Using_An_Explainable_Cost-Sensitive_Deep_Learning_Approach?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoicHJvZmlsZSJ9fQ)] [<a style="color:red;" href="#" onclick="$('#rank2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>]
+
+<div id="rank2023_bib" class="bib" style="display:none;">
+	<pre>
+		@inproceedings{mahmud2023unmasking,
+            title={Unmasking Deepfake Faces from Videos Using An Explainable Cost-Sensitive Deep Learning Approach},
+            author={Mahmud, Faysal and Abdullah, Yusha and Islam, Minhajul and Aziz, Tahsin},
+            booktitle={2023 26th International Conference on Computer and Information Technology (ICCIT)},
+            pages={1--6},
+            year={2023},
+            organization={IEEE}
+        }
+
+    </pre>
+
+</div>
