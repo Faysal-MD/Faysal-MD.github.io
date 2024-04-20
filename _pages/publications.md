@@ -19,14 +19,14 @@ author_profile: true
 </span>
 <br>
 <span style="color:black;font-family:Georgia">
-<font size="3"><strong>Conference:</strong><em> International Conference on Computer and Information Technology</em></font> ([ICCIT 2023](https://iccit.org.bd/2023/))
+<font size="3"><strong>Conference:</strong><em> 26th International Conference on Computer and Information Technology</em></font> ([ICCIT 2023](https://iccit.org.bd/2023/))
 </span>
 <br>
-[PDF](https://www.researchgate.net/publication/378533983_Unmasking_Deepfake_Faces_from_Videos_Using_An_Explainable_Cost-Sensitive_Deep_Learning_Approach?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoicHJvZmlsZSJ9fQ) [<a style="color:red;" href="#" onclick="$('#rank2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>]
+[<a style="color:red;" href="https://www.researchgate.net/publication/378533983_Unmasking_Deepfake_Faces_from_Videos_Using_An_Explainable_Cost-Sensitive_Deep_Learning_Approach"><font size="3">[PDF]</font></a>] [<a style="color:red;" href="#" onclick="$('#rank2023_bib').toggle();return false;"><font size="3">[Citation bib]</font></a>]
 
 <div id="rank2023_bib" class="bib" style="display:none;">
-	<pre>
-		@inproceedings{mahmud2023unmasking,
+    <pre>
+        @inproceedings{mahmud2023unmasking,
             title={Unmasking Deepfake Faces from Videos Using An Explainable Cost-Sensitive Deep Learning Approach},
             author={Mahmud, Faysal and Abdullah, Yusha and Islam, Minhajul and Aziz, Tahsin},
             booktitle={2023 26th International Conference on Computer and Information Technology (ICCIT)},
