@@ -39,22 +39,23 @@ author_profile: true
     </pre>
 </div>
 
-
 <!-- Paper 08 -->
+
 📌 [<span style="color:blue;font-family:Trebuchet MS;">**Unmasking Deepfake Faces from Videos Using An Explainable Cost-Sensitive Deep Learning Approach**</span>](https://ieeexplore.ieee.org/document/10441026/) <br>
 <span style="color:black;font-family:Georgia">
-    <font size="3"><strong>Authors</strong>: <strong style="color:green">Faysal Mahmud</strong>, Yusha Abdullah, Minhajul Islam, Tahsin Aziz </font>
+<font size="3"><strong>Authors</strong>: <strong style="color:green">Faysal Mahmud</strong>, Yusha Abdullah, Minhajul Islam, Tahsin Aziz </font>
 </span>
 <br>
 <span style="color:black;font-family:Georgia">
-    <font size="3"><strong>Conference:</strong><em> 26th International Conference on Computer and Information Technology</em></font> ([ICCIT 2023](https://iccit.org.bd/2023/))
+<font size="3"><strong>Conference:</strong><em> 26th International Conference on Computer and Information Technology</em></font> ([ICCIT 2023](https://iccit.org.bd/2023/))
 </span>
+
 <!-- <br> -->
 <!-- [<a style="color:red;" href="#" onclick="$('#rank2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>]  -->
 
 <!-- [<a style="color:red;" href="https://www.researchgate.net/publication/378533983_Unmasking_Deepfake_Faces_from_Videos_Using_An_Explainable_Cost-Sensitive_Deep_Learning_Approach"><font size="3">PDF</font></a>] [<a style="color:red;" href="#" onclick="$('#rank2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>] -->
 
-[[<span style ="color:red"><font size="3">PDF</font></span>](https://www.researchgate.net/publication/372404336_Rank_Your_Summaries_Enhancing_Bengali_Text_Summarization_via_Ranking-based_Approach)] [<a style="color:red;" href="#" onclick="$('#rank2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+[<a style ="color:red"><font size="3">PDF</font></a>(https://www.researchgate.net/publication/372404336_Rank_Your_Summaries_Enhancing_Bengali_Text_Summarization_via_Ranking-based_Approach)] [<a style="color:red;" href="#" onclick="$('#rank2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>]
 
 <div id="rank2023_bib" class="bib" style="display:none;">
     <pre>
