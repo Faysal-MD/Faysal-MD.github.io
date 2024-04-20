@@ -7,14 +7,14 @@ redirect_from:
   - /resume
 ---
 
-## Education 
--------------
+## Education
+
+---
 
 <b>B.Sc., Computer Science and Engineering</b><br />
 Ahsanullah University of Science and Technology<br />
 Dhaka, Bangladesh<br />
 <i style='color:#000099;'>**2019 - July 2023**</i>
-
 
 <span style="color:black; font-family:Georgia;">You can download a pdf copy of my <a href="../files/CV/CV-of-Faysal.pdf">[CV]</a> here.</span>
 
@@ -23,9 +23,11 @@ Dhaka, Bangladesh<br />
 <br>
 
 ## Email
-+ <span style="font-family:Georgia; color:black;">faysalmmud[AT]gmail[DOT]com</span><br/>
+
+- <span style="font-family:Georgia; color:black;">faysalmmud[AT]gmail[DOT]com</span><br/>
 
 ## Social Media
+
 <span style="color:black; font-family:Georgia;">
-You can find me on [LinkedIn](https://www.linkedin.com/in/faysalmahmud/).
+You can find me on [LinkedIn](https://www.linkedin.com/in/faysalmahmud/) and [Github](https://github.com/Faysal-MD).
 </span>
