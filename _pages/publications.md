@@ -34,13 +34,13 @@ author_profile: true
           journal={arXiv preprint arXiv:2307.07392},
           year={2023}
         } -->
-        @inproceedings{mahmud2023unmasking,
+        <!-- @inproceedings{mahmud2023unmasking,
             title={Unmasking Deepfake Faces from Videos Using An Explainable Cost-Sensitive Deep Learning Approach},
             author={Mahmud, Faysal and Abdullah, Yusha and Islam, Minhajul and Aziz, Tahsin},
             booktitle={2023 26th International Conference on Computer and Information Technology (ICCIT)},
             pages={1--6},
             year={2023},
             organization={IEEE}
-        }
+        } -->
     </pre>
 </div>
