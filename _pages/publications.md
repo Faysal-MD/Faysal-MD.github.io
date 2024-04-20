@@ -24,7 +24,7 @@ author_profile: true
 </span>
 <br>
 <!-- [<a style="color:red;" href="#" onclick="$('#rank2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>]  -->
-[<a style="color:red;" href="https://ieeexplore.ieee.org/document/10441026"><font size="3">PDF</font></a>] [<a style="color:red;" href="#" onclick="$('#rank2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>]
+[<a style="color:red;" href="https://www.researchgate.net/publication/378533983_Unmasking_Deepfake_Faces_from_Videos_Using_An_Explainable_Cost-Sensitive_Deep_Learning_Approach"><font size="3">PDF</font></a>] [<a style="color:red;" href="#" onclick="$('#rank2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>]
 
 <div id="rank2023_bib" class="bib" style="display:none;">
     <pre>
