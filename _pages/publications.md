@@ -28,13 +28,17 @@ author_profile: true
 
 <div id="rank2023_bib" class="bib" style="display:none;">
     <pre>
-    <!-- @article{shahariar2023rank,
+        @article{shahariar2023rank,
           title={Rank Your Summaries: Enhancing Bengali Text Summarization via Ranking-based Approach},
           author={Shahariar, GM and Talukder, Tonmoy and Sotez, Rafin Alam Khan and Shawon, Md Tanvir Rouf},
           journal={arXiv preprint arXiv:2307.07392},
           year={2023}
-        } -->
-        <!-- @inproceedings{mahmud2023unmasking,
+        }
+    </pre>
+</div>
+
+
+ <!-- @inproceedings{mahmud2023unmasking,
             title={Unmasking Deepfake Faces from Videos Using An Explainable Cost-Sensitive Deep Learning Approach},
             author={Mahmud, Faysal and Abdullah, Yusha and Islam, Minhajul and Aziz, Tahsin},
             booktitle={2023 26th International Conference on Computer and Information Technology (ICCIT)},
@@ -42,5 +46,3 @@ author_profile: true
             year={2023},
             organization={IEEE}
         } -->
-    </pre>
-</div>
