@@ -49,7 +49,7 @@ author_profile: true
 <span style="color:black;font-family:Georgia">
     <font size="3"><strong>Conference:</strong><em> 26th International Conference on Computer and Information Technology</em></font> ([ICCIT 2023](https://iccit.org.bd/2023/))
 </span>
-<br>
+<!-- <br> -->
 <!-- [<a style="color:red;" href="#" onclick="$('#rank2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>]  -->
 
 <!-- [<a style="color:red;" href="https://www.researchgate.net/publication/378533983_Unmasking_Deepfake_Faces_from_Videos_Using_An_Explainable_Cost-Sensitive_Deep_Learning_Approach"><font size="3">PDF</font></a>] [<a style="color:red;" href="#" onclick="$('#rank2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>] -->
