@@ -16,11 +16,11 @@ author_profile: true
 <!-- Paper 08 -->
 📌 [<span style="color:blue;font-family:Trebuchet MS;">**Unmasking Deepfake Faces from Videos Using An Explainable Cost-Sensitive Deep Learning Approach**</span>](https://ieeexplore.ieee.org/document/10441026) <br>
 <span style="color:black;font-family:Georgia">
-    <font size="3"><strong>Authors</strong>: <strong style="color:green">Faysal Mahmud</strong>, Tonmoy Talukder*, Rafin Alam Khan Sotez and Md. Tanvir Rouf Shawon </font>
+    <font size="3"><strong>Authors</strong>: <strong style="color:green">Faysal Mahmud</strong>, Yusha Abdullah, Minhajul Islam and Tahsin Aziz </font>
 </span>
 <br>
 <span style="color:black;font-family:Georgia">
-    <font size="3"><strong>Conference:</strong><em> 2nd International Conference on Big Data, IoT and Machine Learning</em></font> ([BIM 2023](https://confbim.com/))
+    <font size="3"><strong>Conference:</strong><em> 26th International Conference on Computer and Information Technology</em></font> ([BIM 2023](https://confbim.com/))
 </span>
 <br>
 <!-- [<a style="color:red;" href="#" onclick="$('#rank2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>]  -->
