@@ -8,55 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-Greetings!!!
+<span style="color:black; font-family:Georgia">Greetings! 👽</span>
 
-<div style="text-align: justify"> 
-
-This is Tonmoy Hossain, a third-year Ph.D. in CS student at the University of Virginia. I am working as a Graduate Research Assistant at the MIA Lab under the supervision of <a href="https://www.cs.virginia.edu/~mz8rr/index.html">Prof. Miaomiao Zhang</a>. I am also serving as a Graduate Program Representative at <a href="https://csgsg.org/">UVA CSGSG</a>. My primary research interest lies in Computer Vision, Image Analysis and Causal Inference.<br /><br /></div>
- 
-<b> I am open to any Research Collaborations in the field of *Multimodal Representation*, *Generative AI*, *Shape Analysis*, and *Causal Inference*. Please reach out if you have anything to discuss or want to work together.  </b> <a href="mailto:pwg7jb@virginia.edu"><i class="fas fa-envelope"></i></a> <br />  
+<p style="text-align:justify; color:black; font-family:Georgia">This is Faysal Mahmud. I obtained my Bachelor's degree in Computer Science and Engineering from  
+<a href="https://aust.edu/">Ahsanullah University of Science and Technology</a>. Working in prestigious AI research labs is my dream career path.
+</p>
 
 **For additional information, please see the [CV](https://tonmoy-hossain.github.io/cv/) and [publications](https://tonmoy-hossain.github.io/publications/).**
 
 -----------
 
+## Recent Activities
++ <span style="font-family:Monaco; color:black;"><span style="color:brown">[November 2023]</span> An Interpretable Deep Learning Approach for Skin Cancer Categorization (https://arxiv.org/pdf/2312.10696.pdf) got accepted at [ICCIT 2023](https://iccit.org.bd/2023/)!</span>
++ <span style="font-family:Monaco; color:black;"><span style="color:brown">[November 2023]</span> 	
+Unmasking Deepfake Faces from Videos Using An Explainable Cost-Sensitive Deep Learning Approach (https://arxiv.org/pdf/2312.10740.pdf) got accepted at [ICCIT 2023](https://iccit.org.bd/2023/)!</span>
 
-# Activities 
-* <span style="color:Blue"> [Aug 18, 2023] </span> - Our paper on [SADIR: Shape-Aware Diffusion Models for 3D Image Reconstruction](https://arxiv.org/pdf/2309.03335.pdf) was accepted at MICCAI ShapeMI 2023. 
-* <span style="color:Blue"> [Jan 22, 2023] </span> - Our paper on [Multimodal Deep Learning to Differentiate Tumor Recurrence from Treatment Effect in Human Glioblastoma](https://arxiv.org/pdf/2302.14124.pdf) was accepted at ISBI 2023. 
-* <span style="color:Blue"> [May 05, 2022] </span> - I have started working with [Professor Miaomiao Zhang](https://engineering.virginia.edu/faculty/miaomiao-zhang) as my Ph.D. advisor. I'll be working in the field of Computer Vision, concentrating on Generative AI and Causal Inference. For any kind of collaboration, don't hesitate to communicate.
-* <span style="color:Blue"> [Apr 25, 2022] </span> - Reached 100+ citations on my Google Scholar profile.
-* <span style="color:Blue"> [Jan 19, 2022] </span> - Started working as Graduate Program Representative at [UVA CSGSG](https://csgsg.org/).
-* <span style="color:Blue"> [Aug 28, 2021] </span> - One long survey paper is accepted and published at [Springer Nature Computer Science ](https://link.springer.com/article/10.1007/s42979-021-00823-1) Journal.
-* <span style="color:Blue"> [May 8, 2021] </span> - One long paper is accepted at [Springer Nature Computer Science ](https://link.springer.com/article/10.1007/s42979-021-00690-w) Journal.
-* <span style="color:Blue"> [Mar 3, 2021] </span> - One paper won the [<span style ="color:Red">**3rd Best Paper Award**</span>](https://tonmoy-hossain.github.io/files/ICCIT-Best-Paper.pdf) at [ICCIT 2020](http://iccit.org.bd/2020/).
-* <span style="color:Blue"> [Jan 23, 2021] </span> - One long paper is accepted at [Springer Nature Computer Science](https://link.springer.com/article/10.1007/s42979-021-00487-x) Journal.
-* <span style="color:Blue"> [Dec 19-21, 2020] </span> - Served as an IT-subcommittee member at [ICCIT 2020](http://iccit.org.bd/2020/)
-* <span style="color:Blue"> [Nov 28, 2020] </span> - One short paper was accepted at [ICECE 2020](http://icece.buet.ac.bd/2020/).  
-* <span style="color:Blue"> [Nov 9, 2020] </span> - One paper won the [<span style ="color:Red">**Best Paper Award**</span>](https://tonmoy-hossain.github.io/files/Best_Paper_Award.png) under <i>Data Mining and Data Analytics and Big Data</i> category at [IEEE-IEMCON 2020](https://ieee-iemcon.org/).
-* <span style="color:Blue"> [Nov 3, 2020] </span> - A long paper was accepted at [ICCIT 2020](http://iccit.org.bd/2020/).
-* <span style="color:Blue"> [Oct 4, 2020] </span> - A short paper was accepted at [ICAICT 2020](http://icaict.uiu.ac.bd/).
-* <span style="color:Blue"> [Sep 11, 2020] </span> - A long paper was accepted at [IEEE-IEMCON 2020](https://ieee-iemcon.org/).
-* <span style="color:Blue"> [Aug 13, 2020] </span> - A pre-print version of a journal submitted [paper](https://assets.researchsquare.com/files/rs-56285/v1_stamped.pdf) is published at [Research Square](https://www.researchsquare.com/article/rs-56285/v1).
-* <span style="color:Blue"> [Jun 09, 2020] </span> - A long paper was accepted at [ICACIE 2020](https://www.icacie.com/2020/).
-* <span style="color:Blue"> [Jun 07, 2020] </span> - A short paper was presented at [Tensymp 2020](http://tensymp2020.com/) [(presentation)](https://tonmoy-hossain.github.io/files/tensymp_presentation.pdf).
-* <span style="color:Blue"> [Apr 28, 2020] </span> - One paper got accepted to [Tensymp 2020](http://tensymp2020.com/).
-* <span style="color:Blue"> [Jan 26, 2020] </span> - Joined as a Lecturer in the [Department of CSE, Ahsanullah University of Science and Technology](http://aust.edu/).
-* <span style="color:Blue"> [Dec 21, 2019] </span> - A [paper](https://ieeexplore.ieee.org/document/9068847) was presented at EICT 2019.
-* <span style="color:Blue"> [Dec 19, 2019] </span> - Attended [ICCIT 2019](http://iccit.org.bd/2019/), in Dhaka, Bangladesh and presented a [paper](https://ieeexplore.ieee.org/document/9038609). 
-* <span style="color:Blue"> [Nov 24, 2019] </span> - One [paper](https://ieeexplore.ieee.org/document/9068847) got accepted to EICT 2019.
-* <span style="color:Blue"> [Nov 21, 2019] </span> - One [paper](https://ieeexplore.ieee.org/document/9038609) got accepted to [ICCIT 2019](http://iccit.org.bd/2019/).
-* <span style="color:Blue"> [Aug 25, 2019] </span> - Joined as an Adjunct Lecturer in the [Department of CSE, Ahsanullah University of Science and Technology](http://aust.edu/).
-* <span style="color:Blue"> [Jun 23, 2019]  </span> - Successfully defended my [B.Sc. Thesis](https://tonmoy-hossain.github.io/files/Hossain_Tonmoy_B.Sc._Thesis.pdf). 
-* <span style="color:Blue"> [May 05, 2019] </span> - Attended [ICASERT 2019](http://home.ewubd.edu/events/1st-international-conference-on-advances-in-science-engineering-and-robotics-technology-icasert-2019/), in Dhaka, Bangladesh, and presented a [paper](https://ieeexplore.ieee.org/document/8934561).  
-* <span style="color:Blue"> [Apr 10, 2019] </span> - One [paper](https://ieeexplore.ieee.org/document/8934561) got accepted to [ICASERT 2019](http://home.ewubd.edu/events/1st-international-conference-on-advances-in-science-engineering-and-robotics-technology-icasert-2019/)
-* <span style="color:Blue"> [Mar 23, 2019] </span> - Ranked 7th position at [Inter University Math Olympiad](http://tonmoy-hossain.github.io/files/Math_Olympiad.pdf)
-* <span style="color:Blue"> [Mar 13, 2019] </span> - One [journal paper](https://thesai.org/Downloads/Volume10No3/Paper_68-A_Gender_Neutral_Approach_to_Detect_Early_Alzheimers_Disease.pdf) got accepted to [International Journal of Advanced Computer Science and Applications (IJACSA)](https://thesai.org/Publications/IJACSA/)
-* <span style="color:Blue"> [Mar 1, 2019] </span> - One [journal paper](https://www.ijser.org/researchpaper/Brain-Tumor-Segmentation-Techniques-on-Medical-Images-A-Review.pdf) got accepted.
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=52vxgbx02tg&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
 
------------
 
 
 
