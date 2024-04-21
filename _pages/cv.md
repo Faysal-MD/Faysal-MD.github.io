@@ -1,20 +1,3 @@
-It seems like you have a structured CV written in Markdown, with HTML elements embedded. Here are some issues and suggestions to resolve them:
-
-1. **Consistency in HTML and Markdown**: You have mixed Markdown syntax with HTML tags. It's better to stick with one. Since your file seems to be in Markdown format, you might want to remove the HTML tags and style your content using Markdown syntax.
-
-2. **HTML Tag Attributes**: In HTML, attribute values should be enclosed in double quotes (`"`), not single quotes (`'`). For example, change `target='_blank'` to `target="_blank"`.
-
-3. **Links**: Ensure all links are properly formatted and functional. For example, the link to your CV file and conference websites should be tested to ensure they lead to the correct destination.
-
-4. **Spelling and Grammar**: Check for any spelling or grammatical errors in your content.
-
-5. **Consistency in Styling**: Make sure the styling (font, color, size) is consistent throughout your CV.
-
-6. **Organization**: Ensure the sections of your CV are logically organized and easy to navigate.
-
-Here's the cleaned-up version of your CV using Markdown syntax:
-
-```markdown
 ---
 layout: archive
 title: "CV"
