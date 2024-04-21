@@ -34,7 +34,6 @@ Higher Secondary Certificate (HSC) <br>
 Duration: 2015 - 2017 <br>
 **GPA:** 5.00/5.00 scale
 
----
 
 ## Research Experience
 
