@@ -11,7 +11,7 @@ redirect_from:
 
 ---
 
-<span style="color:black; font-family:Georgia;">You can download a pdf copy of my <a href="../files/CV/CV-of-Faysal.pdf">[CV]</a> here.</span>
+<span style="color:black; font-family:Georgia;">You can download a pdf copy of my <a href="../files/CV/CV_Faysal Mahmud.pdf">[CV]</a> here.</span>
 
 <br>
 
