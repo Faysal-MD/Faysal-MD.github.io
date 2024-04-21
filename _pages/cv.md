@@ -1,3 +1,20 @@
+It seems like you have a structured CV written in Markdown, with HTML elements embedded. Here are some issues and suggestions to resolve them:
+
+1. **Consistency in HTML and Markdown**: You have mixed Markdown syntax with HTML tags. It's better to stick with one. Since your file seems to be in Markdown format, you might want to remove the HTML tags and style your content using Markdown syntax.
+
+2. **HTML Tag Attributes**: In HTML, attribute values should be enclosed in double quotes (`"`), not single quotes (`'`). For example, change `target='_blank'` to `target="_blank"`.
+
+3. **Links**: Ensure all links are properly formatted and functional. For example, the link to your CV file and conference websites should be tested to ensure they lead to the correct destination.
+
+4. **Spelling and Grammar**: Check for any spelling or grammatical errors in your content.
+
+5. **Consistency in Styling**: Make sure the styling (font, color, size) is consistent throughout your CV.
+
+6. **Organization**: Ensure the sections of your CV are logically organized and easy to navigate.
+
+Here's the cleaned-up version of your CV using Markdown syntax:
+
+```markdown
 ---
 layout: archive
 title: "CV"
@@ -7,123 +24,67 @@ redirect_from:
   - /resume
 ---
 
-<!-- ## Education
-
----
-
-<span style="color:black; font-family:Georgia;">You can download a pdf copy of my <a href="../files/CV/CV_Faysal Mahmud.pdf">[CV]</a> here.</span>
-
-<br>
-
-## Email
-
-- <span style="font-family:Georgia; color:black;">faysalmmud[AT]gmail[DOT]com</span><br/>
-
-## Social Media
-
-<span style="color:black; font-family:Georgia;">
-You can find me on [LinkedIn](https://www.linkedin.com/in/faysalmahmud/) and [Github](https://github.com/Faysal-MD).
-</span> -->
-
-<span style="color:black; font-family:Georgia;">
-  You can download a pdf copy of my <a href="../files/CV/CV_Faysal Mahmud.pdf">[CV]</a> here.
-</span>
-
 ## Education
 
----
+### [Ahsanullah University of Science and Technology](https://aust.edu)
 
-<!-- B.Sc. -->
-<span style="font-family: Georgia; color: black;">
-    <span style="font-size: 20px; font-family: Calisto MT;"><b><a href="https://aust.edu" target="_blank">Ahsanullah University of Science and Technology</a></b></span><br/>
-    Bachelor of Science (B.Sc.)<br/>
-    Computer Science and Engineering <br/>
-    <b>CGPA: 3.32</b> <i>[out of 4.00]</i> <br/>
-    <b>Thesis title:</b> <a href="../files/B.Sc. Thesis/B.Sc. Thesis.pdf">Fake Face Detection in Social Media Videos using Deep Learning: A Comprehensive Analysis and Robust Framework</a> <br/>
-</span>
+Bachelor of Science (B.Sc.)  
+Computer Science and Engineering  
+**CGPA:** 3.32  
+**Thesis title:** [Fake Face Detection in Social Media Videos using Deep Learning: A Comprehensive Analysis and Robust Framework](../files/B.Sc.%20Thesis/B.Sc.%20Thesis.pdf)
 
-<!-- HSC -->
-<span style="font-family:Georgia; color:black;">
-    <span style="color:black; font-size:20px"><b><a href="http://dhakacollege.edu.bd/" target="_blank">Dhaka College</a></b></span><br/>
-    Higher Secondary Certificate (HSC) <br/>
-    Duration: 2015 - 2017 <br/>
-    GPA: <b>5.00/5.00</b> scale <br/>
-</span>
+### [Dhaka College](http://dhakacollege.edu.bd/)
 
-## Research experience
+Higher Secondary Certificate (HSC)  
+Duration: 2015 - 2017  
+**GPA:** 5.00/5.00 scale
 
----
+## Research Experience
 
 ### Conference Proceedings
 
-[<span style="color:blue;font-family:Trebuchet MS;">**Unmasking Deepfake Faces from Videos Using An Explainable Cost-Sensitive Deep Learning Approach**</span>](https://ieeexplore.ieee.org/document/10441026) <br>
-<span style="color:black;font-family:Georgia">
-<font size="3"><strong>Authors</strong>: <strong style="color:green">Faysal Mahmud</strong>, Yusha Abdullah, Minhajul Islam and Tahsin Aziz </font>
-</span>
-<br>
-<span style="color:black;font-family:Georgia">
-<font size="3"><strong>Conference:</strong><em> 26th International Conference on Computer and Information Technology</em></font> ([ICCIT 2023](https://iccit.org.bd/2023/))
-</span>
-<br>
+- **[Unmasking Deepfake Faces from Videos Using An Explainable Cost-Sensitive Deep Learning Approach](https://ieeexplore.ieee.org/document/10441026)**
+  - **Authors:** Faysal Mahmud, Yusha Abdullah, Minhajul Islam, and Tahsin Aziz
+  - **Conference:** 26th International Conference on Computer and Information Technology ([ICCIT 2023](https://iccit.org.bd/2023/))
 
 ### Preprint
 
-[<span style="color:blue;font-family:Trebuchet MS;">**An Interpretable Deep Learning Approach for Skin Cancer Categorization**</span>](https://arxiv.org/pdf/2312.10696.pdf) <br>
-<span style="color:black;font-family:Georgia">
-<font size="3"><strong>Authors</strong>: <strong style="color:green">Faysal Mahmud</strong>, Md. Mahin Mahfiz, Md. Zobayer Ibna Kabir, and Yusha Abdullah </font>
-</span>
-<br>
-<span style="color:black;font-family:Georgia">
-<font size="3"><strong>Doi:</strong></font> [10.48550/arXiv.2312.10696](https://arxiv.org/abs/2312.10696)
-</span>
-<br>
+- **[An Interpretable Deep Learning Approach for Skin Cancer Categorization](https://arxiv.org/pdf/2312.10696.pdf)**
+  - **Authors:** Faysal Mahmud, Md. Mahin Mahfiz, Md. Zobayer Ibna Kabir, and Yusha Abdullah
+  - **Doi:** [10.48550/arXiv.2312.10696](https://arxiv.org/abs/2312.10696)
 
 ## Skills
 
----
-
-<span style="color:black;font-family:Georgia">
-  - Programming Language: Python, Java, C / C++
-  - Python Libraries: Numpy, Pandas, Matplotlib, Scikit-Learn
-  - Deep Learning Frameworks: TensorFlow, Keras, PyTorch
-  - Database: MySQL, Microsoft SQL Server, PL/SQL
-  - Version Control & OS: Git, GitHub, Windows, Linux
-  - Misc.: Academic Research, Latex
-</span>
+- Programming Language: Python, Java, C / C++
+- Python Libraries: Numpy, Pandas, Matplotlib, Scikit-Learn
+- Deep Learning Frameworks: TensorFlow, Keras, PyTorch
+- Database: MySQL, Microsoft SQL Server, PL/SQL
+- Version Control & OS: Git, GitHub, Windows, Linux
+- Misc.: Academic Research, LaTeX
 
 ## Additional Information
 
----
-
 ### Test Scores
 
-<span style="color:black;font-family:Georgia">
-  - <strong>IELTS:</strong> 7 (Listening – 7, Reading – 8, Writing – 6.5, Speaking – 6.5)
-</span>
+- **IELTS:** 7 (Listening – 7, Reading – 8, Writing – 6.5, Speaking – 6.5)
 
 ### Online Courses
 
-<span style="color:black;font-family:Georgia">
-   - <a href = "https://drive.google.com/file/d/1EUhS_ZHgxutxNrUfLF-Y7Sa8Q68xavXY/view" target = "_blank">Programming for Everybody (Getting Started with Python) </a>
-   - <a href = "https://drive.google.com/file/d/1KK7788_l5jodmWVohyH_nF9d33bWryMd/view" target = "_blank">Python Data Structures </a>
-</span>
+- [Programming for Everybody (Getting Started with Python)](https://drive.google.com/file/d/1EUhS_ZHgxutxNrUfLF-Y7Sa8Q68xavXY/view)
+- [Python Data Structures](https://drive.google.com/file/d/1KK7788_l5jodmWVohyH_nF9d33bWryMd/view)
 
 ### Conference
 
-<span style="color:black;font-family:Georgia">
-  <font size="3"><strong>26th International Conference on Computer and Information Technology</strong></font> ([ICCIT 2023](https://iccit.org.bd/2023/)): I presented 2 of our research papers at this conference ([Certificate -1](https://drive.google.com/file/d/1xW9Fgn-PXslJlvNPdDQyWUnYKKWskfu-/view), and [Certificate – 2](https://drive.google.com/file/d/1PQpYRBYVQb_31tsyCktVvuGsxDwl-tBG/view))
-</span>
+- **26th International Conference on Computer and Information Technology ([ICCIT 2023](https://iccit.org.bd/2023/)):**
+  - I presented 2 of our research papers at this conference ([Certificate -1](https://drive.google.com/file/d/1xW9Fgn-PXslJlvNPdDQyWUnYKKWskfu-/view), and [Certificate – 2](https://drive.google.com/file/d/1PQpYRBYVQb_31tsyCktVvuGsxDwl-tBG/view))
 
-### Co-Curricula Activities
+### Co-Curricular Activities
 
-<span style="color:black;font-family:Georgia">
-  - <strong>Intra AUST Programming Contest:</strong> Fall 2018 [Certificate](https://drive.google.com/file/d/1IjfGQLQ2qvr8J9xvyD5PFz8qxoeynow9/view) 
-  - <strong>Intra AUST Programming Contest:</strong> Spring 2019 [Certificate](https://drive.google.com/file/d/1cgZ9grZtdyfVkGXuJCyJO_91rH7bseVS/view)
-  - <strong>Inter-University Event:</strong> I created a Soccer Bot and participated in that event [Certificate](https://drive.google.com/file/d/11-42c21UQQ8eurUBBX4N6l47OjlrkFna/view)
-</span>
+- **Intra AUST Programming Contest:** Fall 2018 [[Certificate](https://drive.google.com/file/d/1IjfGQLQ2qvr8J9xvyD5PFz8qxoeynow9/view)]
+- **Intra AUST Programming Contest:** Spring 2019 [[Certificate](https://drive.google.com/file/d/1cgZ9grZtdyfVkGXuJCyJO_91rH7bseVS/view)]
+- **Inter-University Event:** Created a Soccer Bot and participated in that event [Certificate](https://drive.google.com/file/d/11-42c21UQQ8eurUBBX4N6l47OjlrkFna/view)
 
 ### Volunteer Activity
 
-<span style="color:black;font-family:Georgia">
-  <strong>University Transport Ordinator:</strong> I ensured daily safe transportation for nearly 200 students by actively maintaining our university bus, demonstrating a commitment to reliability and safety.
-</span>
+- **University Transport Coordinator:** Ensured daily safe transportation for nearly 200 students by actively maintaining our university bus, demonstrating a commitment to reliability and safety.
+```
