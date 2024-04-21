@@ -28,26 +28,38 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/faysalmahmud/) and [Gi
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<!-- B.Sc. -->
+<span style="font-family: Georgia; color: black;">
+    <span style="font-size: 20px; font-family: Calisto MT;"><b><a href="https://aust.edu" target="_blank">Ahsanullah University of Science and Technology</a></b></span><br/>
+    Bachelor of Science (B.Sc.)<br/>
+    Computer Science and Engineering <br/>
+    <b>CGPA: 3.32</b> <i>[out of 4.00]</i> <br/>
+    <b>Thesis title:</b> <a href="../files/B.Sc. Thesis/B.Sc. Thesis.pdf">Fake Face Detection in Social Media Videos using Deep Learning: A Comprehensive Analysis and Robust Framework</a> <br/>
+</span>
 
-Work experience
+<!-- HSC -->
+<span style="font-family:Georgia; color:black;">
+    <span style="color:black; font-size:20px"><b><a href="http://dhakacollege.edu.bd/" target="_blank">Dhaka College</a></b></span><br/>
+    Higher Secondary Certificate (HSC) <br/>
+    Duration: 2015 - 2017 <br/>
+    GPA: <b>5.00/5.00</b> scale <br/>
+</span>
+
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+<span style="font-family:Georgia; color:black;">
+  * Conference Proceedings
+    * <b>Mahmud, Faysal<b/>, Yusha Abdullah, Minhajul Islam, and Tahsin Aziz. <b>"Unmasking 
+      Deepfake Faces from Videos Using An Explainable Cost-Sensitive Deep Learning 
+      Approach."<b/> In 2023 26th International Conference on Computer and Information 
+      Technology (ICCIT), pp. 1-6. IEEE, 2023. 
+      Doi: 10.1109/ICCIT60459.2023.10441026
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Fall 2015: Research Assistant
+    * Github University
+    * Duties included: Merging pull requests
+    * Supervisor: Professor Hub
+</span>  
   
 Skills
 ======
