@@ -26,7 +26,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/faysalmahmud/) and [Gi
 </span> -->
 
 
-Education
+## Education
 ======
 <!-- B.Sc. -->
 <span style="font-family: Georgia; color: black;">
@@ -45,30 +45,29 @@ Education
     GPA: <b>5.00/5.00</b> scale <br/>
 </span>
 
-Research experience
+## Research experience
 ======
-<span style="font-family:Georgia; color:black;">
-  * Conference Proceedings
-    * <b>Mahmud, Faysal<b/>, Yusha Abdullah, Minhajul Islam, and Tahsin Aziz. <b>"Unmasking 
-      Deepfake Faces from Videos Using An Explainable Cost-Sensitive Deep Learning 
-      Approach."<b/> In 2023 26th International Conference on Computer and Information 
-      Technology (ICCIT), pp. 1-6. IEEE, 2023. 
-      Doi: 10.1109/ICCIT60459.2023.10441026
+### Conference Proceedings
+======
+    * <strong>Mahmud, Faysal<strong/>, Yusha Abdullah, Minhajul Islam, and Tahsin Aziz. <strong>"Unmasking Deepfake Faces from Videos Using An Explainable Cost-Sensitive Deep Learning 
+      Approach."<strong> In 2023 26th International Conference on Computer and Information Technology (ICCIT), pp. 1-6. IEEE, 2023. <br>
+      Doi: <a href="https://ieeexplore.ieee.org/document/10441026/" target="_blank">10.1109/ICCIT60459.2023.10441026</a>
 
-  * Fall 2015: Research Assistant
-    * Github University
-    * Duties included: Merging pull requests
-    * Supervisor: Professor Hub
-</span>  
-  
-Skills
+### Preprint
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+    * <b>Mahmud, Faysal<b/>, Md Mahin Mahfiz, Md Zobayer Ibna Kabir, and Yusha Abdullah. <b>"An 
+      Interpretable Deep Learning Approach for Skin Cancer Categorization."<b/> arXiv 
+      preprint arXiv:2312.10696 (2023). <br>
+      Doi: 10.48550/arXiv.2312.10696  
+  
+## Skills
+======
+* Programming Language: Python, Java, C / C++
+* Python Libraries: Numpy, Pandas, Matplotlib, Scikit-Learn
+* Deep Learning Frameworks: TensorFlow, Keras, PyTorch
+* Database: MySQL, Microsoft SQL Server, PL/SQL
+* Version Control & OS: Git, GitHub, Windows, Linux
+* Misc.: Academic Research, Latex
 
 Publications
 ======
