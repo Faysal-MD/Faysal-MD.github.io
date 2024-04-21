@@ -14,47 +14,63 @@ redirect_from:
 ---
 
 ## Education
+
 ---
 
 <!-- B.Sc. -->
+
 [**Ahsanullah University of Science and Technology**](https://aust.edu) <br>
-Bachelor of Science (B.Sc.)  <br>
-Computer Science and Engineering <br> 
-**CGPA:** 3.32  <br>
-**Thesis title:** [Fake Face Detection in Social Media Videos using Deep Learning: A Comprehensive Analysis and Robust Framework](../files/B.Sc.%20Thesis/B.Sc.%20Thesis.pdf)
+Bachelor of Science (B.Sc.) <br>
+Computer Science and Engineering <br>
+**CGPA:** 3.32 <br>
+**Undergraduate Thesis title:** [Fake Face Detection in Social Media Videos using Deep Learning: A Comprehensive Analysis and Robust Framework](../files/B.Sc.%20Thesis/B.Sc.%20Thesis.pdf)
 
 <!-- HSC -->
+
 [**Dhaka College**](http://dhakacollege.edu.bd/) <br>
-Higher Secondary Certificate (HSC)  <br>
-Duration: 2015 - 2017  <br>
+Higher Secondary Certificate (HSC) <br>
+Duration: 2015 - 2017 <br>
 **GPA:** 5.00/5.00 scale
 
 ## Research Experience
+
 ---
 
 ### Conference Proceedings
 
 - **[Unmasking Deepfake Faces from Videos Using An Explainable Cost-Sensitive Deep Learning Approach](https://ieeexplore.ieee.org/document/10441026)** <br>
-**Authors:** **Faysal Mahmud**, Yusha Abdullah, Minhajul Islam, and Tahsin Aziz <br>
-**Conference:** 26th International Conference on Computer and Information Technology ([ICCIT 2023](https://iccit.org.bd/2023/))
+  **Authors:** **Faysal Mahmud**, Yusha Abdullah, Minhajul Islam, and Tahsin Aziz <br>
+  **Conference:** 26th International Conference on Computer and Information Technology ([ICCIT 2023](https://iccit.org.bd/2023/))
 
 ### Preprint
 
 - **[An Interpretable Deep Learning Approach for Skin Cancer Categorization](https://arxiv.org/pdf/2312.10696.pdf)** <br>
-**Authors:** **Faysal Mahmud**, Md. Mahin Mahfiz, Md. Zobayer Ibna Kabir, and Yusha Abdullah <br>
-**Doi:** [10.48550/arXiv.2312.10696](https://arxiv.org/abs/2312.10696)
+  **Authors:** **Faysal Mahmud**, Md. Mahin Mahfiz, Md. Zobayer Ibna Kabir, and Yusha Abdullah <br>
+  **Doi:** [10.48550/arXiv.2312.10696](https://arxiv.org/abs/2312.10696)
 
-## Skills
+## Academic Projects
+
 ---
 
-- **Programming Language:**       Python, Java, C / C++
-- **Python Libraries:**           Numpy, Pandas, Matplotlib, Scikit-Learn
-- **Deep Learning Frameworks:**   TensorFlow, Keras, PyTorch
-- **Database:**                   MySQL, Microsoft SQL Server, PL/SQL
-- **Version Control & OS:**       Git, GitHub, Windows, Linux
-- **Misc.:**                      Academic Research, LaTeX
+- **[An Interpretable Machine Learning Approach for Bengali Cyberbullying Detection](https://github.com/Faysal-MD/An-Interpretable-Machine-Learning-Approach-for-Bengali-Cyberbullying-Detection)**
+- **[E-commerce website using HTML, CSS, JavaScript, and MySQL](https://github.com/Faysal-MD/Laptop_Recommendation_System)**
+- **[Pharmacy Management System using Java](https://github.com/Faysal-MD/Pharmacy-Management-System/tree/main)** [[YouTube](https://www.youtube.com/watch?v=gLb2J715sDQ)]
+- **[Car Dealer Site using ASP.NET MVC 5](https://github.com/Faysal-MD/car-selling-website-asp.net-mvc)**
+- **[Single Person Shooting Game using iGraphics (Survive The Jungle)](https://github.com/Faysal-MD/Survive-The-Jungle)** [[YouTube](https://www.youtube.com/watch?v=WsX_MIFpMgE)]
+
+## Skills
+
+---
+
+- **Programming Language:** Python, Java, C / C++
+- **Python Libraries:** Numpy, Pandas, Matplotlib, Scikit-Learn
+- **Deep Learning Frameworks:** TensorFlow, Keras, PyTorch
+- **Database:** MySQL, Microsoft SQL Server, PL/SQL
+- **Version Control & OS:** Git, GitHub, Windows, Linux
+- **Misc.:** Academic Research, LaTeX
 
 ## Additional Information
+
 ---
 
 ### Test Scores
@@ -79,4 +95,7 @@ Duration: 2015 - 2017  <br>
 ### Volunteer Activity
 
 - **University Transport Coordinator:** Ensured daily safe transportation for nearly 200 students by actively maintaining our university bus, demonstrating a commitment to reliability and safety.
+
+```
+
 ```
