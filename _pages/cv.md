@@ -17,16 +17,16 @@ redirect_from:
 ---
 
 <!-- B.Sc. -->
-[Ahsanullah University of Science and Technology](https://aust.edu)
-Bachelor of Science (B.Sc.)  
-Computer Science and Engineering  
-**CGPA:** 3.32  
+[**Ahsanullah University of Science and Technology**](https://aust.edu) <br>
+Bachelor of Science (B.Sc.)  <br>
+Computer Science and Engineering <br> 
+**CGPA:** 3.32  <br>
 **Thesis title:** [Fake Face Detection in Social Media Videos using Deep Learning: A Comprehensive Analysis and Robust Framework](../files/B.Sc.%20Thesis/B.Sc.%20Thesis.pdf)
 
 <!-- HSC -->
-[Dhaka College](http://dhakacollege.edu.bd/)
-Higher Secondary Certificate (HSC)  
-Duration: 2015 - 2017  
+[**Dhaka College**](http://dhakacollege.edu.bd/) <br>
+Higher Secondary Certificate (HSC)  <br>
+Duration: 2015 - 2017  <br>
 **GPA:** 5.00/5.00 scale
 
 ## Research Experience
