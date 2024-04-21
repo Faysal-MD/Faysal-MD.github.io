@@ -23,7 +23,9 @@ redirect_from:
 Bachelor of Science (B.Sc.) <br>
 Computer Science and Engineering <br>
 **CGPA:** 3.32 <br>
-**Undergraduate Thesis title:** [Fake Face Detection in Social Media Videos using Deep Learning: A Comprehensive Analysis and Robust Framework](../files/B.Sc.%20Thesis/B.Sc.%20Thesis.pdf)
+**Undergraduate Thesis:** [Fake Face Detection in Social Media Videos using Deep Learning: A Comprehensive Analysis and Robust Framework](../files/B.Sc.%20Thesis/B.Sc.%20Thesis.pdf)
+
+---
 
 <!-- HSC -->
 
@@ -31,6 +33,8 @@ Computer Science and Engineering <br>
 Higher Secondary Certificate (HSC) <br>
 Duration: 2015 - 2017 <br>
 **GPA:** 5.00/5.00 scale
+
+---
 
 ## Research Experience
 
@@ -96,6 +100,3 @@ Duration: 2015 - 2017 <br>
 
 - **University Transport Coordinator:** Ensured daily safe transportation for nearly 200 students by actively maintaining our university bus, demonstrating a commitment to reliability and safety.
 
-```
-
-```
