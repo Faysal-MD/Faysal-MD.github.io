@@ -46,22 +46,34 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/faysalmahmud/) and [Gi
 </span>
 
 ## Research experience
-======
+---
 ### Conference Proceedings
-======
-    * <strong>Mahmud, Faysal<strong/>, Yusha Abdullah, Minhajul Islam, and Tahsin Aziz. <strong>"Unmasking Deepfake Faces from Videos Using An Explainable Cost-Sensitive Deep Learning 
-      Approach."<strong> In 2023 26th International Conference on Computer and Information Technology (ICCIT), pp. 1-6. IEEE, 2023. <br>
-      Doi: <a href="https://ieeexplore.ieee.org/document/10441026/" target="_blank">10.1109/ICCIT60459.2023.10441026</a>
+
+[<span style="color:blue;font-family:Trebuchet MS;">**Unmasking Deepfake Faces from Videos Using An Explainable Cost-Sensitive Deep Learning Approach**</span>](https://ieeexplore.ieee.org/document/10441026) <br>
+<span style="color:black;font-family:Georgia">
+    <font size="3"><strong>Authors</strong>: <strong style="color:green">Faysal Mahmud</strong>, Yusha Abdullah, Minhajul Islam and Tahsin Aziz </font>
+</span>
+<br>
+<span style="color:black;font-family:Georgia">
+    <font size="3"><strong>Conference:</strong><em> 26th International Conference on Computer and Information Technology</em></font> ([ICCIT 2023](https://iccit.org.bd/2023/))
+</span>
+<br>
 
 ### Preprint
-======
-    * <b>Mahmud, Faysal<b/>, Md Mahin Mahfiz, Md Zobayer Ibna Kabir, and Yusha Abdullah. <b>"An 
-      Interpretable Deep Learning Approach for Skin Cancer Categorization."<b/> arXiv 
-      preprint arXiv:2312.10696 (2023). <br>
-      Doi: 10.48550/arXiv.2312.10696  
-  
+
+[<span style="color:blue;font-family:Trebuchet MS;">**An Interpretable Deep Learning Approach for Skin Cancer Categorization**</span>](https://arxiv.org/pdf/2312.10696.pdf) <br>
+<span style="color:black;font-family:Georgia">
+    <font size="3"><strong>Authors</strong>: <strong style="color:green">Faysal Mahmud</strong>, Yusha Abdullah, Minhajul Islam and Tahsin Aziz </font>
+</span>
+<br>
+<span style="color:black;font-family:Georgia">
+    <font size="3"><strong>Doi:</strong><em> 26th International Conference on Computer and Information Technology</em></font> ([10.48550/arXiv.2312.10696](https://arxiv.org/abs/2312.10696))
+</span>
+<br>
+
 ## Skills
-======
+--- 
+
 * Programming Language: Python, Java, C / C++
 * Python Libraries: Numpy, Pandas, Matplotlib, Scikit-Learn
 * Deep Learning Frameworks: TensorFlow, Keras, PyTorch
@@ -69,8 +81,8 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/faysalmahmud/) and [Gi
 * Version Control & OS: Git, GitHub, Windows, Linux
 * Misc.: Academic Research, Latex
 
-Publications
-======
+## Publications
+--- 
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
