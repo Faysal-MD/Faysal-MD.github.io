@@ -11,7 +11,7 @@ author_profile: true
 Bachelor of Science (B.Sc.)<br/>
 Computer Science and Engineering <br/>
 **CGPA: 3.32** [*out of 4.00*] <br/>
-**Thesis title:** <a href="../files/B.Sc. Thesis/B.Sc. Thesis.pdf">[Fake Face Detection in Social Media Videos using Deep Learning: A Comprehensive Analysis and Robust Framework <br/>
+**Thesis title:** <a href="../files/B.Sc. Thesis/B.Sc. Thesis.pdf">[Fake Face Detection in Social Media Videos using Deep Learning: A Comprehensive Analysis and Robust Framework<a/> <br/>
 </span>
 
 <!-- HSC -->
