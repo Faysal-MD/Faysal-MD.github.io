@@ -34,7 +34,6 @@ Higher Secondary Certificate (HSC) <br>
 Duration: 2015 - 2017 <br>
 **GPA:** 5.00/5.00 scale
 
-
 ## Research Experience
 
 ---
@@ -50,6 +49,20 @@ Duration: 2015 - 2017 <br>
 - **[An Interpretable Deep Learning Approach for Skin Cancer Categorization](https://arxiv.org/pdf/2312.10696.pdf)** <br>
   **Authors:** **Faysal Mahmud**, Md. Mahin Mahfiz, Md. Zobayer Ibna Kabir, and Yusha Abdullah <br>
   **Doi:** [10.48550/arXiv.2312.10696](https://arxiv.org/abs/2312.10696)
+
+## Undergraduate Thesis
+
+---
+
+**Fake Face Detection in Social Media Videos Using Deep Learning: A Comprehensive Analysis and Robust Frameworks**
+This undergraduate thesis work was spread over the 4th year 1st semester & 4th year 2nd semester.
+The duration of the work is almost one year.
+
+### Summary
+
+- Applied different deep learning techniques such as CNN, XceptionNet, DenseNet201,
+  ResNet50 over CelebDF V2, and FaceForensics++ dataset.
+- Developed a fake face detection technique that can capture fake faces from forged videos.
 
 ## Academic Projects
 
@@ -98,4 +111,3 @@ Duration: 2015 - 2017 <br>
 ### Volunteer Activity
 
 - **University Transport Coordinator:** Ensured daily safe transportation for nearly 200 students by actively maintaining our university bus, demonstrating a commitment to reliability and safety.
-
