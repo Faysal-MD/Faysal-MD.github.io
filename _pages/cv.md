@@ -19,20 +19,18 @@ redirect_from:
 
 <!-- B.Sc. -->
 
-[**Ahsanullah University of Science and Technology**](https://aust.edu) <br>
-Bachelor of Science (B.Sc.) <br>
-Computer Science and Engineering <br>
-**CGPA:** 3.32 <br>
-**Undergraduate Thesis:** [Fake Face Detection in Social Media Videos using Deep Learning: A Comprehensive Analysis and Robust Framework](../files/B.Sc.%20Thesis/B.Sc.%20Thesis.pdf)
+- [**Ahsanullah University of Science and Technology**](https://aust.edu) <br>
+  Bachelor of Science (B.Sc.) <br>
+  Computer Science and Engineering <br>
+  **CGPA:** 3.32 out of 4.0<br>
 
----
 
 <!-- HSC -->
 
-[**Dhaka College**](http://dhakacollege.edu.bd/) <br>
-Higher Secondary Certificate (HSC) <br>
-Duration: 2015 - 2017 <br>
-**GPA:** 5.00/5.00 scale
+- [**Dhaka College**](http://dhakacollege.edu.bd/) <br>
+  Higher Secondary Certificate (HSC) <br>
+  Duration: 2015 - 2017 <br>
+  **GPA:** 5.00/5.00 scale
 
 ## Research Experience
 
@@ -54,7 +52,7 @@ Duration: 2015 - 2017 <br>
 
 ---
 
-**Fake Face Detection in Social Media Videos Using Deep Learning: A Comprehensive Analysis and Robust Frameworks**
+[**Fake Face Detection in Social Media Videos Using Deep Learning: A Comprehensive Analysis and Robust Frameworks**](../files/B.Sc.%20Thesis/B.Sc.%20Thesis.pdf)
 This undergraduate thesis work was spread over the 4th year 1st semester & 4th year 2nd semester.
 The duration of the work is almost one year.
 
