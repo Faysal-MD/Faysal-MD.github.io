@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <span style="color:black; font-family:Georgia;">
-  You can download a pdf copy of my <a href="../files/CV/CV_Faysal Mahmud.pdf">[Curriculum Vitae]</a> here.
+  You can download a pdf copy of my <a href="../files/CV/CV_Faysal Mahmud.pdf">[CV]</a> here.
 </span>
 
 ---
@@ -23,7 +23,6 @@ redirect_from:
   Bachelor of Science (B.Sc.) <br>
   Computer Science and Engineering <br>
   **CGPA:** 3.32 out of 4.0<br>
-
 
 <!-- HSC -->
 
@@ -52,7 +51,7 @@ redirect_from:
 
 ---
 
-[**Fake Face Detection in Social Media Videos Using Deep Learning: A Comprehensive Analysis and Robust Frameworks**](../files/B.Sc.%20Thesis/B.Sc.%20Thesis.pdf)
+[**Fake Face Detection in Social Media Videos Using Deep Learning: A Comprehensive Analysis and Robust Frameworks**](../files/B.Sc.%20Thesis/B.Sc.%20Thesis.pdf) <br>
 This undergraduate thesis work was spread over the 4th year 1st semester & 4th year 2nd semester.
 The duration of the work is almost one year.
 
