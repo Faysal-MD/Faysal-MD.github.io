@@ -22,6 +22,7 @@ redirect_from:
 - [**Ahsanullah University of Science and Technology**](https://aust.edu) <br>
   Bachelor of Science (B.Sc.) <br>
   Computer Science and Engineering <br>
+  **Undergraduate Thesis Title:** Unmasking Deepfake Faces from Videos Using An Explainable Cost-Sensitive Deep Learning Approach
   **CGPA:** 3.32 out of 4.0<br>
 
 <!-- HSC -->
@@ -35,7 +36,7 @@ redirect_from:
 
 ---
 
-### Conference Proceedings
+### Conference Proceeding
 
 - **[Unmasking Deepfake Faces from Videos Using An Explainable Cost-Sensitive Deep Learning Approach](https://ieeexplore.ieee.org/document/10441026)** <br>
   **Authors:** **Faysal Mahmud**, Yusha Abdullah, Minhajul Islam, and Tahsin Aziz <br>
@@ -47,19 +48,6 @@ redirect_from:
   **Authors:** **Faysal Mahmud**, Md. Mahin Mahfiz, Md. Zobayer Ibna Kabir, and Yusha Abdullah <br>
   **Doi:** [10.48550/arXiv.2312.10696](https://arxiv.org/abs/2312.10696)
 
-## Undergraduate Thesis
-
----
-
-[**Fake Face Detection in Social Media Videos Using Deep Learning: A Comprehensive Analysis and Robust Frameworks**](../files/B.Sc.%20Thesis/B.Sc.%20Thesis.pdf) <br>
-This undergraduate thesis work was spread over the 4th year 1st semester & 4th year 2nd semester.
-The duration of the work is almost one year.
-
-### Summary
-
-- Applied different deep learning techniques such as CNN, XceptionNet, DenseNet201,
-  ResNet50 over CelebDF V2, and FaceForensics++ dataset.
-- Developed a fake face detection technique that can capture fake faces from forged videos.
 
 ## Academic Projects
 
@@ -80,7 +68,6 @@ The duration of the work is almost one year.
 - **Deep Learning Frameworks:** TensorFlow, Keras, PyTorch
 - **Database:** MySQL, Microsoft SQL Server, PL/SQL
 - **Version Control & OS:** Git, GitHub, Windows, Linux
-- **Misc.:** Academic Research, LaTeX
 
 ## Additional Information
 
@@ -107,4 +94,4 @@ The duration of the work is almost one year.
 
 ### Volunteer Activity
 
-- **University Transport Coordinator:** Ensured daily safe transportation for nearly 200 students by actively maintaining our university bus, demonstrating a commitment to reliability and safety.
+- **University Transport Ordinator:** I Ensured daily safe transportation for nearly 200 students by actively maintaining our university bus route, demonstrating a commitment to reliability and safety.
