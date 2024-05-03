@@ -22,7 +22,7 @@ redirect_from:
 - [**Ahsanullah University of Science and Technology**](https://aust.edu) <br>
   Bachelor of Science (B.Sc.) <br>
   Computer Science and Engineering <br>
-  **Undergraduate Thesis Title:** Unmasking Deepfake Faces from Videos Using An Explainable Cost-Sensitive Deep Learning Approach <br>
+  **Undergraduate Thesis Title:** Unmasking Deepfake Faces from Videos Using An Explainable Cost-Sensitive Deep Learning Approach <a href="../files/B.Sc. Thesis/B.Sc. Thesis.pdf">[PDF]</a> <br>
   **CGPA:** 3.32 out of 4.0<br>
 
 <!-- HSC -->
@@ -39,13 +39,9 @@ redirect_from:
 ### Conference Proceedings
 
 
-- **[An Interpretable Deep Learning Approach for Skin Cancer Categorization](https://arxiv.org/pdf/2312.10696.pdf)** <br>
-  **Authors:** **Faysal Mahmud**, Md. Mahin Mahfiz, Md. Zobayer Ibna Kabir, and Yusha Abdullah <br>
-  **Doi:** [10.48550/arXiv.2312.10696](https://arxiv.org/abs/2312.10696)
-  
-- **[Unmasking Deepfake Faces from Videos Using An Explainable Cost-Sensitive Deep Learning Approach](https://ieeexplore.ieee.org/document/10441026)** <br>
-  **Authors:** **Faysal Mahmud**, Yusha Abdullah, Minhajul Islam, and Tahsin Aziz <br>
-  **Conference:** 26th International Conference on Computer and Information Technology ([ICCIT 2023](https://iccit.org.bd/2023/))
+- **F. Mahmud**, M. M. Mahfiz, M. Z. I. Kabir and Y. Abdullah, **"An Interpretable Deep Learning Approach for Skin Cancer Categorization,"** 2023 26th International Conference on Computer and Information Technology (ICCIT), Cox's Bazar, Bangladesh, 2023, pp. 1-6, doi: [10.1109/ICCIT60459.2023.10508527](https://ieeexplore.ieee.org/document/10508527).
+
+- **F. Mahmud**, Y. Abdullah, M. Islam and T. Aziz, **"Unmasking Deepfake Faces from Videos Using An Explainable Cost-Sensitive Deep Learning Approach,"** 2023 26th International Conference on Computer and Information Technology (ICCIT), Cox's Bazar, Bangladesh, 2023, pp. 1-6, doi: [10.1109/ICCIT60459.2023.10441026](https://ieeexplore.ieee.org/document/10441026).
 
 
 ## Skills
