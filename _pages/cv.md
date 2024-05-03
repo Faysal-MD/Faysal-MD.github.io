@@ -36,17 +36,16 @@ redirect_from:
 
 ---
 
-### Conference Proceeding
+### Conference Proceedings
 
-- **[Unmasking Deepfake Faces from Videos Using An Explainable Cost-Sensitive Deep Learning Approach](https://ieeexplore.ieee.org/document/10441026)** <br>
-  **Authors:** **Faysal Mahmud**, Yusha Abdullah, Minhajul Islam, and Tahsin Aziz <br>
-  **Conference:** 26th International Conference on Computer and Information Technology ([ICCIT 2023](https://iccit.org.bd/2023/))
-
-### Preprint
 
 - **[An Interpretable Deep Learning Approach for Skin Cancer Categorization](https://arxiv.org/pdf/2312.10696.pdf)** <br>
   **Authors:** **Faysal Mahmud**, Md. Mahin Mahfiz, Md. Zobayer Ibna Kabir, and Yusha Abdullah <br>
   **Doi:** [10.48550/arXiv.2312.10696](https://arxiv.org/abs/2312.10696)
+  
+- **[Unmasking Deepfake Faces from Videos Using An Explainable Cost-Sensitive Deep Learning Approach](https://ieeexplore.ieee.org/document/10441026)** <br>
+  **Authors:** **Faysal Mahmud**, Yusha Abdullah, Minhajul Islam, and Tahsin Aziz <br>
+  **Conference:** 26th International Conference on Computer and Information Technology ([ICCIT 2023](https://iccit.org.bd/2023/))
 
 
 ## Skills

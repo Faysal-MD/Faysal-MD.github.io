@@ -13,14 +13,14 @@ author_profile: true
 
 <!-- Paper 02 -->
 
-- **F. Mahmud**, M. M. Mahfiz, M. Z. I. Kabir and Y. Abdullah, **"An Interpretable Deep Learning Approach for Skin Cancer         Categorization,"** 2023 26th International Conference on Computer and Information Technology (ICCIT), Cox's Bazar, Bangladesh, 2023, pp. 1-6, doi: [10.1109/ICCIT60459.2023.10508527](https://ieeexplore.ieee.org/document/10508527).
+📌 **F. Mahmud**, M. M. Mahfiz, M. Z. I. Kabir and Y. Abdullah, **"An Interpretable Deep Learning Approach for Skin Cancer Categorization,"** 2023 26th International Conference on Computer and Information Technology (ICCIT), Cox's Bazar, Bangladesh, 2023, pp. 1-6, doi: [10.1109/ICCIT60459.2023.10508527](https://ieeexplore.ieee.org/document/10508527).
 <br>
 
 <!-- [<a style="color:red;" href="#" onclick="$('#rank2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>]  -->
 
-[<a style="color:red;" href="https://www.researchgate.net/publication/378533983_Unmasking_Deepfake_Faces_from_Videos_Using_An_Explainable_Cost-Sensitive_Deep_Learning_Approach"><font size="3">PDF</font></a>] [<a style="color:red;" href="#" onclick="$('#rank2023_bib').toggle();return false;"><font size="3">Citation</font></a>]
+[<a style="color:red;" href="https://www.researchgate.net/publication 378533983_Unmasking_Deepfake_Faces_from_Videos_Using_An_Explainable_Cost-Sensitive_Deep_Learning_Approach"><font size="3">PDF</font></a>] [<a style="color:red;" href="#" onclick="$('#rank2024_bib').toggle();return false;"><font size="3">Citation</font></a>]
 
-<div id="rank2023_bib" class="bib" style="display:none;">
+<div id="rank2024_bib" class="bib" style="display:none;">
     <pre>
         @inproceedings{mahmud2023unmasking,
             title={Unmasking Deepfake Faces from Videos Using An Explainable Cost-Sensitive Deep Learning Approach},
@@ -57,15 +57,20 @@ author_profile: true
 
 <div id="rank2023_bib" class="bib" style="display:none;">
     <pre>
-        @inproceedings{mahmud2023unmasking,
-            title={Unmasking Deepfake Faces from Videos Using An Explainable Cost-Sensitive Deep Learning Approach},
+        @INPROCEEDINGS{10441026,
             author={Mahmud, Faysal and Abdullah, Yusha and Islam, Minhajul and Aziz, Tahsin},
-            booktitle={2023 26th International Conference on Computer and Information Technology (ICCIT)},
-            pages={1--6},
+            booktitle={2023 26th International Conference on Computer and Information Technology (ICCIT)}, 
+            title={Unmasking Deepfake Faces from Videos Using An Explainable Cost-Sensitive Deep Learning Approach}, 
             year={2023},
-            organization={IEEE}
+            volume={},
+            number={},
+            pages={1-6},
+            keywords={Deep learning;Deepfakes;Adaptation models;Face recognition;Computational modeling;Feature extraction;Convolutional neural networks;Deepfake video;Keyframe;Explainable AI (XAI);Cost-sensitive;Face Detection;CelebDf;FaceForensics++;CNN},
+            doi={10.1109/ICCIT60459.2023.10441026}
         }
+
     </pre>
+
 </div>
 
 ---
