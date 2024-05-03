@@ -21,7 +21,7 @@ author_profile: true
   **GPA:** 5.00/5.00 scale <br>
 
   <!-- SSC -->
-- [**Shamsul Hoque Khan School & College**] <br>
+- **Shamsul Hoque Khan School & College** <br>
   Secondary School Certificate (HSC) <br>
   Duration: 2013 - 2015 <br>
   **GPA:** 5.00/5.00 scale <br>
