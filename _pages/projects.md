@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-## Ongoing Projects
+<!-- ## Ongoing Projects
 ----------------
 
 ### [2020 - *Current*]
@@ -21,9 +21,9 @@ author_profile: true
 -----------
 * Artificial Prognosis of Cardiac Disease: A Data-scientific Approach in Outlier Handling.
 * Bangla Sign Digit Classification.
-* Alzheimer's Disease Detection applying Neural Network.
+* Alzheimer's Disease Detection applying Neural Network. -->
 
-## Undergraduate Course Projects [2015-2019]
+## Undergraduate Course Projects [2019-2023]
 ----------------
 * Optimal Location Recommendation for a Food Restaurant using Hybridized K-Means Clustering algorithm.
 * Extraction of text from Images using Optical Character Recognition algorithm.

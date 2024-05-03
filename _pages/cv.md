@@ -22,7 +22,7 @@ redirect_from:
 - [**Ahsanullah University of Science and Technology**](https://aust.edu) <br>
   Bachelor of Science (B.Sc.) <br>
   Computer Science and Engineering <br>
-  **Undergraduate Thesis Title:** Unmasking Deepfake Faces from Videos Using An Explainable Cost-Sensitive Deep Learning Approach
+  **Undergraduate Thesis Title:** Unmasking Deepfake Faces from Videos Using An Explainable Cost-Sensitive Deep Learning Approach <br>
   **CGPA:** 3.32 out of 4.0<br>
 
 <!-- HSC -->
