@@ -6,18 +6,22 @@ author_profile: true
 ---
 
 <!-- B.Sc. -->
-<span style="font-family: Georgia; color: black;">
-    <span style="font-size: 20px; font-family: Calisto MT;"><b><a href="https://aust.edu" target="_blank">Ahsanullah University of Science and Technology</a></b></span><br/>
-    Bachelor of Science (B.Sc.)<br/>
-    Computer Science and Engineering <br/>
-    <b>CGPA: 3.32</b> <i>[out of 4.00]</i> <br/>
-    <b>Thesis title:</b> <a href="../files/B.Sc. Thesis/B.Sc. Thesis.pdf">Fake Face Detection in Social Media Videos using Deep Learning: A Comprehensive Analysis and Robust Framework</a> <br/>
-</span>
+
+- [**Ahsanullah University of Science and Technology**](https://aust.edu) <br>
+  Bachelor of Science (B.Sc.) <br>
+  Computer Science and Engineering <br>
+  **Undergraduate Thesis Title:** Unmasking Deepfake Faces from Videos Using An Explainable Cost-Sensitive Deep Learning Approach <br>
+  **CGPA:** 3.32 out of 4.0<br>
 
 <!-- HSC -->
-<span style="font-family:Georgia; color:black;">
-    <span style="color:black; font-size:20px"><b><a href="http://dhakacollege.edu.bd/" target="_blank">Dhaka College</a></b></span><br/>
-    Higher Secondary Certificate (HSC) <br/>
-    Duration: 2015 - 2017 <br/>
-    GPA: <b>5.00/5.00</b> scale <br/>
-</span>
+
+- [**Dhaka College**](http://dhakacollege.edu.bd/) <br>
+  Higher Secondary Certificate (HSC) <br>
+  Duration: 2015 - 2017 <br>
+  **GPA:** 5.00/5.00 scale <br>
+
+  <!-- SSC -->
+- [**Shamsul Hoque Khan School & College**] <br>
+  Secondary School Certificate (HSC) <br>
+  Duration: 2013 - 2015 <br>
+  **GPA:** 5.00/5.00 scale <br>

@@ -79,7 +79,7 @@ redirect_from:
 
 - **Intra AUST Programming Contest:** Fall 2018 [[Certificate](https://drive.google.com/file/d/1IjfGQLQ2qvr8J9xvyD5PFz8qxoeynow9/view)]
 - **Intra AUST Programming Contest:** Spring 2019 [[Certificate](https://drive.google.com/file/d/1cgZ9grZtdyfVkGXuJCyJO_91rH7bseVS/view)]
-- **Inter-University Event:** Created a Soccer Bot and participated in that event [Certificate](https://drive.google.com/file/d/11-42c21UQQ8eurUBBX4N6l47OjlrkFna/view)
+- **Inter-University Event:** Created a Soccer Bot and participated in that event [[Certificate]](https://drive.google.com/file/d/11-42c21UQQ8eurUBBX4N6l47OjlrkFna/view)
 
 ### Volunteer Activity
 
