@@ -48,21 +48,12 @@ redirect_from:
   **Authors:** **Faysal Mahmud**, Md. Mahin Mahfiz, Md. Zobayer Ibna Kabir, and Yusha Abdullah <br>
   **Doi:** [10.48550/arXiv.2312.10696](https://arxiv.org/abs/2312.10696)
 
-## Academic Projects
-
----
-
-- [An Interpretable Machine Learning Approach for Bengali Cyberbullying Detection](https://github.com/Faysal-MD/An-Interpretable-Machine-Learning-Approach-for-Bengali-Cyberbullying-Detection)
-- [E-commerce website using HTML, CSS, JavaScript, and MySQL](https://github.com/Faysal-MD/Laptop_Recommendation_System)
-- [Pharmacy Management System using Java](https://github.com/Faysal-MD/Pharmacy-Management-System/tree/main) [[YouTube](https://www.youtube.com/watch?v=gLb2J715sDQ)]
-- [Car Dealer Site using ASP.NET MVC 5](https://github.com/Faysal-MD/car-selling-website-asp.net-mvc)
-- [Single Person Shooting Game using iGraphics (Survive The Jungle)](https://github.com/Faysal-MD/Survive-The-Jungle) [[YouTube](https://www.youtube.com/watch?v=WsX_MIFpMgE)]
 
 ## Skills
 
 ---
 
-- **Programming Language:** Python, Java, C++
+- **Programming Languages:** Python, Java, C++
 - **Machine Learning & Deep Learning Libraries:** TensorFlow, Keras, PyTorch, NumPy, Pandas, Matplotlib, Sklearn
 - **Database:** MySQL, MSSQL, PL/SQL
 - **Version Control & OS:** Git, GitHub, Windows, Linux
