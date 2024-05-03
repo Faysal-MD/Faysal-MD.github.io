@@ -21,11 +21,12 @@ redirect_from:
 ---
 
 ## Interests
----
 
 - **Computer Vision**
 - **Natural Language Processing**
 - **Explainable Artificial Intelligence**
+
+---
 
 ## Latest News
 
