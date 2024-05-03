@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-<span style="color:black; font-family:Georgia;">Most recent publication updates can be found on my <a style ="color:#800080;" href="https://scholar.google.com/citations?user=XMEn-M4AAAAJ&hl=en"><em>[Google Scholar]</em></a> profile.</span><br>
-
 ## 2024
 
 ---
