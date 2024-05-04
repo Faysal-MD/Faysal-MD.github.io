@@ -31,6 +31,7 @@ author_profile: true
         }
 
     </pre>
+
 </div>
 
 ---
@@ -47,16 +48,13 @@ author_profile: true
 
 <div id="rank2023_bib" class="bib" style="display:none;">
     <pre>
-        @INPROCEEDINGS{10441026,
+        @inproceedings{mahmud2023unmasking,
+            title={Unmasking Deepfake Faces from Videos Using An Explainable Cost-Sensitive Deep Learning Approach},
             author={Mahmud, Faysal and Abdullah, Yusha and Islam, Minhajul and Aziz, Tahsin},
-            booktitle={2023 26th International Conference on Computer and Information Technology (ICCIT)}, 
-            title={Unmasking Deepfake Faces from Videos Using An Explainable Cost-Sensitive Deep Learning Approach}, 
+            booktitle={2023 26th International Conference on Computer and Information Technology (ICCIT)},
+            pages={1--6},
             year={2023},
-            volume={},
-            number={},
-            pages={1-6},
-            keywords={Deep learning;Deepfakes;Adaptation models;Face recognition;Computational modeling;Feature extraction;Convolutional neural networks;Deepfake video;Keyframe;Explainable AI (XAI);Cost-sensitive;Face Detection;CelebDf;FaceForensics++;CNN},
-            doi={10.1109/ICCIT60459.2023.10441026}
+            organization={IEEE}
         }
 
     </pre>
