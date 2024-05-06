@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-## 2024
 
+## 2023
 ---
 
 <!-- Paper 02 -->
@@ -29,16 +29,9 @@ author_profile: true
             keywords={Deep learning;Visualization;Explainable AI;Computational modeling;Medical services;Skin;Lesions;Skin Cancer Detection;Deep Learning;Pre-trained Models;Convolutional Neural Networks (CNN);HAM10000;Medical Imaging;Explainable Artificial Intelligence (XAI)},
             doi={10.1109/ICCIT60459.2023.10508527}
         }
-
     </pre>
 
 </div>
-
----
-
-## 2023
-
----
 
 <!-- Paper 01 -->
 
@@ -56,7 +49,6 @@ author_profile: true
             year={2023},
             organization={IEEE}
         }
-
     </pre>
 
 </div>
