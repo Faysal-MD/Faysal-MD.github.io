@@ -63,18 +63,19 @@ redirect_from:
 
 ### Online Courses
 
-- [Programming for Everybody (Getting Started with Python)](https://drive.google.com/file/d/1EUhS_ZHgxutxNrUfLF-Y7Sa8Q68xavXY/view)
-- [Python Data Structures](https://drive.google.com/file/d/1KK7788_l5jodmWVohyH_nF9d33bWryMd/view)
+- Supervised Machine Learning: Regression and Classification <a href="../files/ExtraCurrucularCertificate/SupervisedML.pdf">[Certificate]</a>
+- Python Data Structures <a href="../files/ExtraCurrucularCertificate/PythonDS.pdf">[Certificate]</a>
+- Programming for Everybody (Getting Started with Python)<a href="../files/ExtraCurrucularCertificate/Python.pdf">[Certificate]</a>
 
 ### Conference
 
-- **26th International Conference on Computer and Information Technology ([ICCIT 2023](https://iccit.org.bd/2023/)):** I presented 2 of our research papers at this conference ([Certificate -1](https://drive.google.com/file/d/1xW9Fgn-PXslJlvNPdDQyWUnYKKWskfu-/view), and [Certificate – 2](https://drive.google.com/file/d/1PQpYRBYVQb_31tsyCktVvuGsxDwl-tBG/view))
+- **26th International Conference on Computer and Information Technology ([ICCIT 2023](https://iccit.org.bd/2023/)):** I presented 2 of our research papers at this conference <a href="../files/ExtraCurrucularCertificate/PID-135.pdf">[Certificate 1]</a>, and <a href="../files/ExtraCurrucularCertificate/PID-697.pdf">[Certificate 2]</a>
 
 ### Co-Curricular Activities
 
-- **Intra AUST Programming Contest:** Fall 2018 [[Certificate](https://drive.google.com/file/d/1IjfGQLQ2qvr8J9xvyD5PFz8qxoeynow9/view)]
-- **Intra AUST Programming Contest:** Spring 2019 [[Certificate](https://drive.google.com/file/d/1cgZ9grZtdyfVkGXuJCyJO_91rH7bseVS/view)]
-- **Inter-University Event:** Created a Soccer Bot and participated in that event [[Certificate]](https://drive.google.com/file/d/11-42c21UQQ8eurUBBX4N6l47OjlrkFna/view)
+- **Intra AUST Programming Contest:** Fall 2018 <a href="../files/ExtraCurrucularCertificate/IAPC-2018.pdf">[Certificate]</a>
+- **Intra AUST Programming Contest:** Spring 2019 <a href="../files/ExtraCurrucularCertificate/IAPC-2019.pdf">[Certificate]</a>
+- **Inter-University Event:** Created a Soccer Bot and participated in that event <a href="../files/ExtraCurrucularCertificate/SoccerBot.pdf">[Certificate]</a>
 
 ### Volunteer Activity
 
