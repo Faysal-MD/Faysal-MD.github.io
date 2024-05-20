@@ -67,7 +67,7 @@ redirect_from:
 
 ### Conference
 
-- **26th International Conference on Computer and Information Technology ([ICCIT 2023](https://iccit.org.bd/2023/)):** I presented 2 of our research papers at this conference ([Certificate -1](https://drive.google.com/file/d/1xW9Fgn-PXslJlvNPdDQyWUnYKKWskfu-/view), and [Certificate – 2](https://drive.google.com/file/d/1PQpYRBYVQb_31tsyCktVvuGsxDwl-tBG/view))
+- **26th International Conference on Computer and Information Technology ([ICCIT 2023](https://iccit.org.bd/2023/)):** I presented 2 of our research papers at this conference ([Certificate - 1](https://drive.google.com/file/d/1xW9Fgn-PXslJlvNPdDQyWUnYKKWskfu-/view), and [Certificate – 2](https://drive.google.com/file/d/1PQpYRBYVQb_31tsyCktVvuGsxDwl-tBG/view))
 
 ### Co-Curricular Activities
 
